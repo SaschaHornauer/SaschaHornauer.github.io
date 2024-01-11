@@ -51,28 +51,6 @@ Research on Automated Vehicles has experienced vast progress over the last decad
 **Effects of Automation on Traffic**: Data-driven predictions can end up being implicitly conditioned on second-order effects. For example, seeing a recording vehicle or no driver in an autonomous car can influence traffic participant’s decisions. Fixed settings in automated functions, such as safe distances, can influence the traffic flow on highways. While this can potentially introduce a distribution shift for prediction algorithms it could be also leveraged to purposefully shape traffic. We invite therefore also approaches investigating these second-order effects, propagating in highly interactive scenarios.
 
 
-
-## Preliminary Agenda
-
-||||||
-| :-: | :-: | :-: | :-: | :-: |
-|08:30|Opening Ceremony||||
-|08:35|Talk|Gonca Guersun|Developing Deep Neural Network Models for Behavior Prediction and Vehicle Interaction|Bosch Center for Artificial Intelligence, DE|
-|08:54|Talk|Arij Bouazizi|Traffic Light and Uncertainty Aware Pedestrian Crossing Intention Prediction for Automated Vehicles|Mercedes-Benz AG, DE|
-|09:13|Talk|Raphael Trumpp|Learning to Interact: Scalable State Representations for Autonomous Driving|Technical University of Munich, DE|
-|09:32|Talk|Julian Schmidt|Exploring Navigation Maps for Learning-Based Motion Prediction|Mercedes-Benz AG, DE|
-|09:51|Talk|Julian Wiederer|Unsupervised Learning for the Detection of Driving Anomalies|Mercedes-Benz AG, DE|
-|10:10|Talk|Masha Itkina|Occlusion Inference Using People as Sensors|Stanford University/Toyota
-Research Institute (TRI)|
-|10:29|Coffee Break|||
-|10:48|Talk|Thomas Genevois|Interaction-aware Motion Planning as an Alternative to Proactive Planning for Human-aware Navigation|INRIA, FR|
-|11:07|Talk|Maximilian Kloock|Distributed Decision-Making using Cooperative Model Predictive Control|FEV Europe, DE|
-|11:26|Talk|Chris van der Ploeg|Exploiting situational awareness for risk-averse motion planning|TNO Integrated Vehicle Safety, NL|
-|11:45|Talk|Marion Neumeier|Connecting the Nodes: Graph-based Approaches for Predicting Trajectories|CARISSMA Institute of Automated Driving, DE|
-|12:04|Talk|Zhe Fu|The MegaVanderTest: Massive CAV Experiment in Nashville Pits Machine Learning against Traffic Jam|UC Berkeley, US|
-|12:23|Panel session and closing ceremony||||
-
-
 ## Organizers
 
 ||||
@@ -87,15 +65,6 @@ Research Institute (TRI)|
 
 Please get in touch with  [sascha.hornauer@mines-paristech.fr](sascha.hornauer@mines-paristech.fr) or any of the organizers in case you have any further questions.
 
-## Publication and Attendance
-
-- Registration for the workshop-day or the whole conference is necessary to attend, except for IEEE ITSS members, which will receive free attendance to the workshop-day.
-- In case of acceptance of a submitted workshop paper, one author has to pay the full publication fee to include the paper into the proceedings. 
-
 ## Past Editions
 
-At IV2022, the organizers hosted a previous edition of this workshop: [https://kit-mrt.github.io/iv2022-workshop/](https://kit-mrt.github.io/iv2022-workshop/).
-
-## Acknowledgments
-
-The organizers gratefully acknowledge support by the Deutsche Forschungsgemeinschaft (German Research Foundation) within the Priority Program SPP 1835 - Cooperative Interacting Automobiles.
+At IV2023, the organizers hosted the latest edition of this workshop: [https://kit-mrt.github.io/iv2023-workshop/](https://kit-mrt.github.io/iv2023-workshop/).
