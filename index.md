@@ -6,14 +6,17 @@ header:
   overlay_image: assets/images/header_from_unsplash_dot_com.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 title: 'Interaction-driven Behavior Prediction and Planning for Autonomous Vehicles'
-excerpt: 'An IV2023 workshop.'
+excerpt: 'An IV2024 workshop.'
 ---
 
-This workshop will be held at the [34rd IEEE Intelligent Vehicles Symposium (IV)](https://2023.ieee-iv.org/), on June 4th, 2023, in Anchorage, Alaska, USA. 
+This workshop will be held at the [35rd IEEE Intelligent Vehicles Symposium (IV)](https://ieee-iv.org/2024/), on June 2 - 5, 2024
+Jeju Shinhwa World, Jeju Island, Korea 
 
-## Registration for IV is now open!
+## Call for Workshop Papers now open!
 
-Please register at [here](https://web.cvent.com/event/ca4ccee9-7192-48a5-b6ab-3dcd9c4b803e/regProcessStep1) for the conference and workshop. IEEE ITSS members will receive a free workshops day only registration.
+We invite papers on novel, unpublished work in line with the focus of this workshop. Please see the topic list and content description or reach out when in doubt if your paper would be a good fit. 
+
+Please note that papers submitted for the workshop will undergo the same review process as the conference papers and will be published in the same proceedings. 
 
 ## Topics
 The topics of interest of the workshop include, but are not limited to:
@@ -25,11 +28,11 @@ The topics of interest of the workshop include, but are not limited to:
 - Evaluation and benchmarking of the aforementioned topics
 
 ### Important Deadlines: 
-- February 01, 2023: Workshop Paper Submission Deadline (firm deadline, no extension)
-- March 30, 2023: Workshop Paper Notification of Acceptance
-- April 22, 2023: Workshop Final Paper Submission Deadline 
+- February 01, 2024: Workshop Paper Submission Deadline (firm deadline, no extension)
+- March 30, 2024: Workshop Paper Notification of Acceptance
+- April 22, 2024: Workshop Final Paper Submission Deadline 
 
-In case of different deadlines on the official website, the ones on the website are to be followed: [https://2023.ieee-iv.org/call-for-workshops/](https://2023.ieee-iv.org/call-for-workshops/)
+Please see for details and potential updated deadlines the official website: [https://ieee-iv.org/2024/call-for-papers/](https://ieee-iv.org/2024/call-for-papers/)
 
 ## Workshop Content
 
