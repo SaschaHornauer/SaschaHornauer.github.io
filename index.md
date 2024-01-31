@@ -28,7 +28,7 @@ The topics of interest of the workshop include, but are not limited to:
 - Evaluation and benchmarking of the aforementioned topics
 
 ### Important Deadlines: 
-- February 01, 2024: Workshop Paper Submission Deadline (firm deadline, no extension)
+- February 05, 2024: Workshop Paper Submission Deadline (extended, no further extension)
 - March 30, 2024: Workshop Paper Notification of Acceptance
 - April 22, 2024: Workshop Final Paper Submission Deadline 
 
